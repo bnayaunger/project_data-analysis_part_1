@@ -13,7 +13,7 @@ In this stage, we:
 ## 📁 Files included
 
 - `project_part_1.ipynb` – Jupyter Notebook with all the code and steps
-- `output_data.csv` – Cleaned dataset exported to CSV format
+- `project_part_1.csv` – Cleaned dataset exported to CSV format
 
 ## 🧠 What's next?
 
